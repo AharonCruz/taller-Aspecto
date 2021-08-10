@@ -1,0 +1,9 @@
+Despego el avion Mon Aug 09 18:17:26 COT 2021
+Despego el avion Mon Aug 09 18:19:41 COT 2021
+Despego el avion Mon Aug 09 18:20:42 COT 2021
+Despego el avion Mon Aug 09 18:21:57 COT 2021
+Aterrizo el avion: Mon Aug 09 18:21:57 COT 2021
+Despego el avion Mon Aug 09 18:22:50 COT 2021
+Aterrizo el avion: Mon Aug 09 18:22:50 COT 2021
+Despego el avion Mon Aug 09 18:30:53 COT 2021
+Aterrizo el avion: Mon Aug 09 18:30:53 COT 2021
